@@ -1,0 +1,9 @@
+Package: com.5px.signate
+Name: Signate
+Depends: mobilesubstrate
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Uptime displayed straight on your lockscreen
+Maintainer: FivePixels
+Author: FivePixels
+Section: Tweaks
